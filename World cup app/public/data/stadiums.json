@@ -1,0 +1,146 @@
+[
+  {
+    "id": "st_azteca",
+    "name": "Estadio Azteca",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "capacity": "87,523",
+    "matchesCount": 5,
+    "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "st_metlife",
+    "name": "MetLife Stadium",
+    "city": "New York/New Jersey",
+    "country": "USA",
+    "capacity": "82,500",
+    "matchesCount": 8,
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "st_att",
+    "name": "AT&T Stadium",
+    "city": "Dallas",
+    "country": "USA",
+    "capacity": "80,000",
+    "matchesCount": 9,
+    "image": "https://images.unsplash.com/photo-1504156806559-60dbe5c89b00?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "st_arrowhead",
+    "name": "Arrowhead Stadium",
+    "city": "Kansas City",
+    "country": "USA",
+    "capacity": "76,416",
+    "matchesCount": 6,
+    "image": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "st_nrg",
+    "name": "NRG Stadium",
+    "city": "Houston",
+    "country": "USA",
+    "capacity": "72,220",
+    "matchesCount": 7,
+    "image": "https://images.unsplash.com/photo-1577223625856-758a127e1091?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "st_mercedes",
+    "name": "Mercedes-Benz Stadium",
+    "city": "Atlanta",
+    "country": "USA",
+    "capacity": "71,000",
+    "matchesCount": 8,
+    "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "st_sofi",
+    "name": "SoFi Stadium",
+    "city": "Los Angeles",
+    "country": "USA",
+    "capacity": "70,240",
+    "matchesCount": 8,
+    "image": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "st_philadelphia",
+    "name": "Lincoln Financial Field",
+    "city": "Philadelphia",
+    "country": "USA",
+    "capacity": "69,796",
+    "matchesCount": 6,
+    "image": "https://images.unsplash.com/photo-1624880351055-97c55a307abc?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "st_lumen",
+    "name": "Lumen Field",
+    "city": "Seattle",
+    "country": "USA",
+    "capacity": "69,000",
+    "matchesCount": 6,
+    "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "st_levis",
+    "name": "Levi's Stadium",
+    "city": "San Francisco Bay Area",
+    "country": "USA",
+    "capacity": "68,500",
+    "matchesCount": 6,
+    "image": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "st_gillette",
+    "name": "Gillette Stadium",
+    "city": "Boston",
+    "country": "USA",
+    "capacity": "65,878",
+    "matchesCount": 6,
+    "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "st_hardrock",
+    "name": "Hard Rock Stadium",
+    "city": "Miami",
+    "country": "USA",
+    "capacity": "64,767",
+    "matchesCount": 7,
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "st_bcplace",
+    "name": "BC Place",
+    "city": "Vancouver",
+    "country": "Canada",
+    "capacity": "54,500",
+    "matchesCount": 7,
+    "image": "https://images.unsplash.com/photo-1504156806559-60dbe5c89b00?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "st_monterrey",
+    "name": "Estadio BBVA",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "capacity": "53,500",
+    "matchesCount": 4,
+    "image": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "st_akron",
+    "name": "Estadio Akron",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "capacity": "48,071",
+    "matchesCount": 4,
+    "image": "https://images.unsplash.com/photo-1577223625856-758a127e1091?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "st_bmo",
+    "name": "BMO Field",
+    "city": "Toronto",
+    "country": "Canada",
+    "capacity": "30,000",
+    "matchesCount": 6,
+    "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=600&q=80"
+  }
+]
