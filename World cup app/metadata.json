@@ -1,6 +1,0 @@
-{
-  "name": "World Cup Daily Schedule",
-  "description": "FIFA World Cup 2026 Group Stage Schedule (IST) with match countdowns, stadium guide, filters, standings, and personalization features.",
-  "requestFramePermissions": ["geolocation"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
