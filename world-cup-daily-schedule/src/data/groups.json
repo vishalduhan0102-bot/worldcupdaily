@@ -1,0 +1,638 @@
+[
+  {
+    "groupName": "A",
+    "teams": [
+      {
+        "team": "Mexico",
+        "fifaCode": "MEX",
+        "flag": "mx",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "South Africa",
+        "fifaCode": "RSA",
+        "flag": "za",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "South Korea",
+        "fifaCode": "KOR",
+        "flag": "kr",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Czech Republic",
+        "fifaCode": "CZE",
+        "flag": "cz",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupName": "B",
+    "teams": [
+      {
+        "team": "Canada",
+        "fifaCode": "CAN",
+        "flag": "ca",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Bosnia and Herzegovina",
+        "fifaCode": "BIH",
+        "flag": "ba",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Qatar",
+        "fifaCode": "QAT",
+        "flag": "qa",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Switzerland",
+        "fifaCode": "SUI",
+        "flag": "ch",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupName": "C",
+    "teams": [
+      {
+        "team": "Brazil",
+        "fifaCode": "BRA",
+        "flag": "br",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Morocco",
+        "fifaCode": "MAR",
+        "flag": "ma",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Haiti",
+        "fifaCode": "HAI",
+        "flag": "ht",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Scotland",
+        "fifaCode": "SCO",
+        "flag": "gb-sct",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupName": "D",
+    "teams": [
+      {
+        "team": "USA",
+        "fifaCode": "USA",
+        "flag": "us",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Paraguay",
+        "fifaCode": "PAR",
+        "flag": "py",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Australia",
+        "fifaCode": "AUS",
+        "flag": "au",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Turkey",
+        "fifaCode": "TUR",
+        "flag": "tr",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupName": "E",
+    "teams": [
+      {
+        "team": "Germany",
+        "fifaCode": "GER",
+        "flag": "de",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Curaçao",
+        "fifaCode": "CUW",
+        "flag": "cw",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Ivory Coast",
+        "fifaCode": "CIV",
+        "flag": "ci",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Ecuador",
+        "fifaCode": "ECU",
+        "flag": "ec",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupName": "F",
+    "teams": [
+      {
+        "team": "Netherlands",
+        "fifaCode": "NED",
+        "flag": "nl",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Japan",
+        "fifaCode": "JPN",
+        "flag": "jp",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Sweden",
+        "fifaCode": "SWE",
+        "flag": "se",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Tunisia",
+        "fifaCode": "TUN",
+        "flag": "tn",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupName": "G",
+    "teams": [
+      {
+        "team": "Belgium",
+        "fifaCode": "BEL",
+        "flag": "be",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Egypt",
+        "fifaCode": "EGY",
+        "flag": "eg",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Iran",
+        "fifaCode": "IRN",
+        "flag": "ir",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "New Zealand",
+        "fifaCode": "NZL",
+        "flag": "nz",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupName": "H",
+    "teams": [
+      {
+        "team": "Spain",
+        "fifaCode": "ESP",
+        "flag": "es",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Cape Verde",
+        "fifaCode": "CPV",
+        "flag": "cv",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Saudi Arabia",
+        "fifaCode": "KSA",
+        "flag": "sa",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Uruguay",
+        "fifaCode": "URU",
+        "flag": "uy",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupName": "I",
+    "teams": [
+      {
+        "team": "France",
+        "fifaCode": "FRA",
+        "flag": "fr",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Senegal",
+        "fifaCode": "SEN",
+        "flag": "sn",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Iraq",
+        "fifaCode": "IRQ",
+        "flag": "iq",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Norway",
+        "fifaCode": "NOR",
+        "flag": "no",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupName": "J",
+    "teams": [
+      {
+        "team": "Argentina",
+        "fifaCode": "ARG",
+        "flag": "ar",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Algeria",
+        "fifaCode": "ALG",
+        "flag": "dz",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Austria",
+        "fifaCode": "AUT",
+        "flag": "at",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Jordan",
+        "fifaCode": "JOR",
+        "flag": "jo",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupName": "K",
+    "teams": [
+      {
+        "team": "Portugal",
+        "fifaCode": "POR",
+        "flag": "pt",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "DR Congo",
+        "fifaCode": "COD",
+        "flag": "cd",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Uzbekistan",
+        "fifaCode": "UZB",
+        "flag": "uz",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Colombia",
+        "fifaCode": "COL",
+        "flag": "co",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupName": "L",
+    "teams": [
+      {
+        "team": "England",
+        "fifaCode": "ENG",
+        "flag": "gb-eng",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Croatia",
+        "fifaCode": "CRO",
+        "flag": "hr",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Ghana",
+        "fifaCode": "GHA",
+        "flag": "gh",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      },
+      {
+        "team": "Panama",
+        "fifaCode": "PAN",
+        "flag": "pa",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "points": 0
+      }
+    ]
+  }
+]
