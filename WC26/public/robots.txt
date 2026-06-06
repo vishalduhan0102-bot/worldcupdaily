@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://world-cup-daily-schedule-117328559245.asia-southeast1.run.app/sitemap.xml

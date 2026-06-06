@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <!-- Radial Gradient for Background -->
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="50%" fx="30%" fy="30%">
+      <stop offset="0%" stop-color="#1c1c1f" />
+      <stop offset="100%" stop-color="#050505" />
+    </radialGradient>
+    
+    <!-- Gold Gradients for soccer graphics -->
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFF3B0" />
+      <stop offset="30%" stop-color="#D4AF37" />
+      <stop offset="70%" stop-color="#AA7C11" />
+      <stop offset="100%" stop-color="#5B4005" />
+    </linearGradient>
+
+    <linearGradient id="goldLight" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#AA7C11" />
+      <stop offset="50%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#FFF3B0" />
+    </linearGradient>
+    
+    <!-- Subtle drop shadow -->
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <!-- Background Circle Base -->
+  <circle cx="256" cy="256" r="240" fill="url(#bgGrad)" stroke="#D4AF37" stroke-width="6" />
+
+  <!-- Outer Ring Detail -->
+  <circle cx="256" cy="256" r="225" fill="none" stroke="#D4AF37" stroke-width="2" stroke-dasharray="8, 6" opacity="0.6" />
+
+  <g filter="url(#shadow)">
+    <!-- Shield Outline / Crest -->
+    <path d="M 256,90 C 290,90 350,110 380,140 C 380,250 350,330 256,410 C 162,330 132,250 132,140 C 162,110 222,90 256,90 Z" 
+          fill="none" stroke="url(#goldGrad)" stroke-width="8" stroke-linejoin="round" />
+
+    <!-- Core Soccer ball and golden ribbons -->
+    <g transform="translate(256, 240) scale(1.1)">
+      <!-- Ball base -->
+      <circle cx="0" cy="0" r="70" fill="#121212" stroke="url(#goldGrad)" stroke-width="4" />
+      
+      <!-- Pentagonal structure center -->
+      <polygon points="0,-22 21,-7 13,18 -13,18 -21,-7" fill="url(#goldGrad)" />
+      
+      <!-- Upper right seam and pentagon projection -->
+      <line x1="21" y1="-7" x2="45" y2="-18" stroke="url(#goldLight)" stroke-width="3" />
+      <polygon points="45,-18 58,10 35,27 23,2" fill="none" stroke="url(#goldLight)" stroke-width="3" />
+      
+      <!-- Upper left seam and pentagon projection -->
+      <line x1="-21" y1="-7" x2="-45" y2="-18" stroke="url(#goldLight)" stroke-width="3" />
+      <polygon points="-45,-18 -58,10 -35,27 -23,2" fill="none" stroke="url(#goldLight)" stroke-width="3" />
+
+      <!-- Bottom seam and projection -->
+      <line x1="13" y1="18" x2="25" y2="48" stroke="url(#goldLight)" stroke-width="3" />
+      <line x1="-13" y1="18" x2="-25" y2="48" stroke="url(#goldLight)" stroke-width="3" />
+      <polygon points="-25,48 25,48 0,65" fill="none" stroke="url(#goldLight)" stroke-width="3" />
+      
+      <!-- Top seam -->
+      <line x1="0" y1="-22" x2="0" y2="-52" stroke="url(#goldLight)" stroke-width="3" />
+      <polygon points="0,-52 -28,-60 -45,-38" fill="none" stroke="url(#goldLight)" stroke-width="3" />
+      <polygon points="0,-52 28,-60 45,-38" fill="none" stroke="url(#goldLight)" stroke-width="3" />
+    </g>
+
+    <!-- Star decorations representing World Cup glory -->
+    <g transform="translate(256, 375)">
+      <!-- Five pointed gold star -->
+      <polygon points="0,-12 3,-3 12,-3 5,2 8,11 0,5 -8,11 -5,2 -12,-3 -3,-3" fill="url(#goldGrad)" />
+    </g>
+    <g transform="translate(210, 370)">
+      <polygon points="0,-8 2,-2 8,-2 3,1 5,7 0,3 -5,7 -3,1 -8,-2 -2,-2" fill="url(#goldLight)" opacity="0.8" />
+    </g>
+    <g transform="translate(302, 370)">
+      <polygon points="0,-8 2,-2 8,-2 3,1 5,7 0,3 -5,7 -3,1 -8,-2 -2,-2" fill="url(#goldLight)" opacity="0.8" />
+    </g>
+  </g>
+
+  <!-- Typography: WCD (World Cup Daily shorthand) in custom brand style -->
+  <text x="256" y="475" font-family="'Space Grotesk', 'Inter', sans-serif" font-weight="950" font-size="34" fill="url(#goldGrad)" text-anchor="middle" letter-spacing="4">WC DAILY</text>
+</svg>
